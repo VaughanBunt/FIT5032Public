@@ -18,7 +18,7 @@
  * pinia v3.0.3
  * (c) 2025 Eduardo San Martin Morote
  * @license MIT
- */const cc=Symbol();var nr;(function(e){e.direct="direct",e.patchObject="patch object",e.patchFunction="patch function"})(nr||(nr={}));function fc(){const e=Qi(!0),t=e.run(()=>Ur({}));let n=[],s=[];const r=Vr({install(i){r._a=i,i.provide(cc,r),i.config.globalProperties.$pinia=r,s.forEach(o=>n.push(o)),s=[]},use(i){return this._a?n.push(i):s.push(i),this},_p:n,_a:null,_e:e,_s:new Map,state:t});return r}const uc=(e,t)=>{const n=e.__vccOpts||e;for(const[s,r]of t)n[s]=r;return n},ac={};function dc(e,t){return bl(),xl(Fe,null,[t[0]||(t[0]=gn("h1",null,"Week 12",-1)),t[1]||(t[1]=gn("p",null," I made a new project in a public branch because I hadn't got my education accound for github setup yet ",-1))],64)}const hc=uc(ac,[["render",dc]]);/*!
+ */const cc=Symbol();var nr;(function(e){e.direct="direct",e.patchObject="patch object",e.patchFunction="patch function"})(nr||(nr={}));function fc(){const e=Qi(!0),t=e.run(()=>Ur({}));let n=[],s=[];const r=Vr({install(i){r._a=i,i.provide(cc,r),i.config.globalProperties.$pinia=r,s.forEach(o=>n.push(o)),s=[]},use(i){return this._a?n.push(i):s.push(i),this},_p:n,_a:null,_e:e,_s:new Map,state:t});return r}const uc=(e,t)=>{const n=e.__vccOpts||e;for(const[s,r]of t)n[s]=r;return n},ac={};function dc(e,t){return bl(),xl(Fe,null,[t[0]||(t[0]=gn("h1",null,"Week 12",-1)),t[1]||(t[1]=gn("p",null," I made a new project in a public branch because I hadn't got my education accound for github setup yet. ",-1))],64)}const hc=uc(ac,[["render",dc]]);/*!
  * vue-router v4.6.3
  * (c) 2025 Eduardo San Martin Morote
  * @license MIT
