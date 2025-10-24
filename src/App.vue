@@ -1,10 +1,9 @@
 <script setup></script>
 
 <template>
-  <h1>You did it!</h1>
+  <h1>Week 12</h1>
   <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
+    I made a new project in a public branch because I hadn't got my education accound for github setup yet
   </p>
 </template>
 
